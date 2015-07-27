@@ -12,11 +12,11 @@
 define( 'ACEVERSION', '0.7.1' );
 
 define( 'RPCHOST', '127.0.0.1' );
-define( 'RPCPORT', 12345 );
-define( 'RPCUSER', 'username' );
-define( 'RPCPASS', 'password' );
+define( 'RPCPORT', 17452 );
+define( 'RPCUSER', 'jm' );
+define( 'RPCPASS', 'jajaja113' );
 
-define( 'COINNAME', 'Somecoin' );
+define( 'COINNAME', 'Tavos' );
 define( 'COINPOS', false );
 
 define( 'RETURNJSON', false );
@@ -24,7 +24,7 @@ define( 'DATEFORMAT', 'H:i:s Y-M-d' );
 define( 'BLOCKSPERLIST', 12 );
 
 // for the example explorer
-define( 'COINHOME', 'http://www.somecoin.org/' );
+define( 'COINHOME', 'http://www.tavos.co/' );
 define( 'REFRESHTIME', 180 );
 
 // courtesy of https://github.com/aceat64/EasyBitcoin-PHP/
