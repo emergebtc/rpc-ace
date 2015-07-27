@@ -11,7 +11,7 @@
 
 define( 'ACEVERSION', '0.7.1' );
 
-define( 'RPCHOST', '127.0.0.1' );
+define( 'RPCHOST', '104.207.148.147' );
 define( 'RPCPORT', 17452 );
 define( 'RPCUSER', 'jm' );
 define( 'RPCPASS', 'jajaja113' );
